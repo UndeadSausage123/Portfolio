@@ -29,3 +29,38 @@ body.dark {
 	background-color: #121212;
 	color: #f5f5f5;
 }
+
+#achievements,
+#projects {
+
+	justify-content: center;
+	margin-bottom:30px;
+}
+
+#achievements ul,
+#projects ul {
+	text-align: left;
+	padding: 20px;
+	margin: 0 auto;
+	list-style-position: inside;
+	max-width: 600px;
+	width: 100%;
+	box-sizing: border-box;
+	line-height: 1.5;
+}
+
+#tasks {
+	justify-content: center;
+	margin-bottom: 30px;
+}
+
+#tasks ul {
+	text-align: left;
+	padding: 20px;
+	margin: 0 auto;
+	list-style-position: inside;
+	max-width: 600px;
+	width: 100%;
+	box-sizing: border-box;
+	line-height: 1.5;
+}
